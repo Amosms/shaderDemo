@@ -1,0 +1,5 @@
+{
+    "webgl-glsl-editor.strictRename": true,
+    "editor.parameterHints.enabled": false,
+    "editor.inlayHints.enabled": "offUnlessPressed"
+}
